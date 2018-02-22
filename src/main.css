@@ -1,0 +1,48 @@
+.header {
+  position: relative;
+  text-shadow: 1px 1px 10px white;
+  background-image:url("/Users/appleowner/Documents/GitHub/HTMLPortfolioProject/Images/laptop.jpeg");
+  background-size: 250px 125px;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: center;
+}
+.header h1 {
+  text-align: justify;
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+
+}
+
+.header h2 {
+  text-align: justify;
+    margin: 0;
+padding: 0;
+font-family: fantasy;
+}
+.tagline {
+  background-color: ;
+    margin-top: -20px;
+    text-align:justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.skills {
+  background-color: #ada506;
+    margin-top: -20px;
+    padding-top: 20px;
+}
+.contact {
+  background-color: #ada506;
+  margin-top: -20px;
+    padding-top: 20px;
+}
+
+body {
+margin:auto;
+background-color: #ada506;
+
+
+}
